@@ -1,0 +1,8 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex; 
+    flex-direction: column; /* to stack the main and footer elements on top of each other */
+}
