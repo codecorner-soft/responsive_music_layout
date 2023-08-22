@@ -1,2 +1,2 @@
 # responsive_music_layout
-Example music app layout, made using flexbox.
+Example responsive music app layout, made using flexbox only as practice.
